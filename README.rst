@@ -105,8 +105,8 @@ only make git accessible from there) and type::
     git clone git@github.com:jonathanrocher/pandas_tutorial.git
 
 That will create a new folder named SciPy2015_pandas_tutorial/ with all the
-content you will need: the slides I will go through (slides.pdf), and a folder
-of exercises.
+content you will need: the slides I will go through (slides.pdf), a folder of
+demoes and a folder of exercises.
 
 As you get closer to the day of the tutorial, it is highly recommended to
 update this repository, as I will be improving it this week. To update it, open
